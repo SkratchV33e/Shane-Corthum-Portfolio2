@@ -77,7 +77,7 @@
     <Content Include="css\font-awesome.min.css" />
     <Content Include="css\isotope.css" />
     <Content Include="css\styles.css" />
-    <Content Include="FizzBuzz.js" />
+    <Content Include="fizzbuzz.js" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="images\arrows.png" />
     <Content Include="images\banner-bg.jpg" />
@@ -90,8 +90,17 @@
     <Content Include="images\client-5.png" />
     <Content Include="images\client-6.png" />
     <Content Include="images\photo-1.jpg" />
+    <Content Include="images\portfolio\1200px-Computer-screen-code-glitch-animation-gif-background-free.gif" />
     <Content Include="images\portfolio\Background to portfolio.jpg" />
+    <Content Include="images\portfolio\csharplogosmall22.png" />
+    <Content Include="images\portfolio\csslogosmall22.png" />
+    <Content Include="images\portfolio\cube gif.gif" />
+    <Content Include="images\portfolio\DeadlineTimeByPCbots23.jpg" />
     <Content Include="images\portfolio\Diablo_III_cover.png" />
+    <Content Include="images\portfolio\html5-css-javascript-logos.png" />
+    <Content Include="images\portfolio\html5logo 22.jpg" />
+    <Content Include="images\portfolio\html5logo.jpg" />
+    <Content Include="images\portfolio\htmllogosmall22.png" />
     <Content Include="images\portfolio\img1.jpg" />
     <Content Include="images\portfolio\img2.jpg" />
     <Content Include="images\portfolio\img3.jpg" />
@@ -101,10 +110,13 @@
     <Content Include="images\portfolio\img7.jpg" />
     <Content Include="images\portfolio\img8.jpg" />
     <Content Include="images\portfolio\img9.jpg" />
+    <Content Include="images\portfolio\istockphoto-871030872-612x612.jpg" />
+    <Content Include="images\portfolio\jslogosmall22.png" />
+    <Content Include="images\portfolio\pleasebegood.gif" />
+    <Content Include="images\portfolio\WIN_20200418_17_47_13_Pro %283%29.jpg" />
     <Content Include="images\tacocat1-fat.jpg" />
     <Content Include="Index.html" />
-    <Content Include="Index1.html" />
-    <Content Include="InexFIZZBUZZ.html" />
+    <Content Include="NumberSequence.html" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\custom.js" />
     <Content Include="js\fancybox\blank.gif" />
@@ -128,6 +140,7 @@
     <Content Include="js\owl-carousel\owl.carousel.min.js" />
     <Content Include="js\owl-carousel\owl.theme.css" />
     <Content Include="js\owl-carousel\owl.transitions.css" />
+    <Content Include="NumberSequence.js" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -136,6 +149,7 @@
     <Content Include="Scripts\esm\popper-utils.min.js" />
     <Content Include="Scripts\esm\popper.js" />
     <Content Include="Scripts\esm\popper.min.js" />
+    <None Include="Properties\PublishProfiles\ShaneCorthumPortfolio - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.0.0-vsdoc.js" />
     <Content Include="Scripts\jqBootstrapValidation.js" />
     <Content Include="Scripts\jquery-3.0.0.js" />
@@ -214,6 +228,8 @@
     <Content Include="Scripts\umd\popper.js" />
     <Content Include="Scripts\umd\popper.min.js" />
     <Content Include="ShaneJavaScript.js" />
+    <Content Include="Soaf.js" />
+    <Content Include="SunsetHills.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

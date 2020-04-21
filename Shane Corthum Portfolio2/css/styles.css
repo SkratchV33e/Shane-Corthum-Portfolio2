@@ -456,7 +456,7 @@ float: none;
 /*Intro Content*/
 #introText {
 	padding: 50px 0;
-	background: #000;
+	background:;
 }
 #introText h1 {
 	font-size: 40px;
@@ -470,10 +470,11 @@ float: none;
 	font-size: 16px;
 }
 #aboutUs{
-padding:60px 0;	
+padding:60px 0;
+	background-color: mintcream;
 	}
 #aboutUs .txtHead {
-	background: #fff;
+	background-color:mintcream;
 	padding: 20px 10px;
 }
 #aboutUs .txtHead .fa {
@@ -1072,6 +1073,7 @@ margin-top: 30%;
 .banner-container > img {
 	width: auto; 
 	height:350px;
+	
 }
 .page-section h1 {
 	font-size: 3em;

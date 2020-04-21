@@ -1,4 +1,4 @@
-﻿
+﻿//Algorithim for Number Sequence
 
         //$("#btnCalc").on("click", function () {});
 
