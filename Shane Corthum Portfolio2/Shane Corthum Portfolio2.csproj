@@ -89,6 +89,8 @@
     <Content Include="images\client-4.png" />
     <Content Include="images\client-5.png" />
     <Content Include="images\client-6.png" />
+    <Content Include="images\fizzbuzz.jpg" />
+    <Content Include="images\newbackground.jpg" />
     <Content Include="images\photo-1.jpg" />
     <Content Include="images\portfolio\1200px-Computer-screen-code-glitch-animation-gif-background-free.gif" />
     <Content Include="images\portfolio\Background to portfolio.jpg" />

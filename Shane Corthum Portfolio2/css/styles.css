@@ -2,11 +2,30 @@
 Theme Name: Free-Portfolio-HTML5-Responsive-Website-Sam
 Author URI: http://webthemez.com/ 
 */
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
 * {
 	margin: 0;
 	padding: 0;
 	font-family: 'Open Sans', sans-serif;
+}
+
+
+#introText
+{
+	padding: 1px;
+	border: 1px solid #021a40;
+	background-color: #80ced6;
+}
+#home {
+   padding:1px;
+   border:1px solid #021a40;
+   background-color:#ff0;
+}
+#quote {
+	opacity: 0.5;
+}
+#introText {
+	opacity: 0.5;
 }
 body {
 	font-size: 14px;
@@ -934,8 +953,8 @@ footer {
 #portfolio{
 background: #DBDBDB;	
 	}
-#contactUs{
-	 background: #3394D5;
+#contactUs {
+	background-color: rgb(170, 185, 195);
 }
 #contactUs p{
 color:#000;
